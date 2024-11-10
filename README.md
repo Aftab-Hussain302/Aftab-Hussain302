@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aftab-Hussain302
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Aftab-Hussain
+- 👀 I’m interested in Machine Intelligence, Neural Networks, Incremental Learning, Streaming AI, Federated Learning, Medical imaging diagnosis and Computer Vision.
+- 🌱 I’m currently learning Streaming AI, Incremental and federated learning. 
+- 💞️ I’m looking to collaborate on Machine Learning, Incremental Learning, Industrial AI, Computer Vision and Federated Learning. 
+- 📫 How to reach me "aftabhussaincui@gmail.com"
 
 <!---
 Aftab-Hussain302/Aftab-Hussain302 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
